@@ -1,6 +1,6 @@
 {
   "name": "vuejsh-cli",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "description": "'一个可切换vue版本及项目模板的脚手架'",
   "main": "index.js",
   "scripts": {
@@ -29,5 +29,7 @@
     "cli",
     "vue",
     "npm"
-  ]
+  ],
+  "repository": "https://github.com/LonelyDrifter/vuejsh-cli.git",
+  "private": false
 }

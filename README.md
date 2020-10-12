@@ -5,7 +5,7 @@
 
 #### 如何使用
 
-- 初始安装依赖 npm install vuejsh-cli 
+- 初始安装依赖 npm install -g vuejsh-cli
 - 创建项目 vuejsh-cli create <projectName>
 - 获取帮助 vuejsh-cli -help | -h
 - 查看版本 vuejsh-cli -V
